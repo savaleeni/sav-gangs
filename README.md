@@ -10,5 +10,6 @@ Compatible with  gang leaderboards.
 
 Compatible with ESX 1.1 & Legacy
 
-discord.gg/dev - Suggest some features you would like to see!
-https://savs-development.tebex.io/package/5839494
+Discord: https://discord.gg/dev
+
+Package: https://savs-development.tebex.io/package/5839494
